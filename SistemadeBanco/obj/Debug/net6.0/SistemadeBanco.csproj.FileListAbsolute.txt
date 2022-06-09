@@ -1,0 +1,15 @@
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.csproj.AssemblyReference.cache
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.AssemblyInfoInputs.cache
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.AssemblyInfo.cs
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.csproj.CoreCompileInputs.cache
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\bin\Debug\net6.0\SistemadeBanco.exe
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\bin\Debug\net6.0\SistemadeBanco.deps.json
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\bin\Debug\net6.0\SistemadeBanco.runtimeconfig.json
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\bin\Debug\net6.0\SistemadeBanco.dll
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\bin\Debug\net6.0\SistemadeBanco.pdb
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.dll
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\refint\SistemadeBanco.dll
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.pdb
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\SistemadeBanco.genruntimeconfig.cache
+C:\Users\Família Vepo\source\repos\SistemadeBanco\SistemadeBanco\obj\Debug\net6.0\ref\SistemadeBanco.dll
